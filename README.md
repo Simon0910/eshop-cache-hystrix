@@ -1,2 +1,2 @@
 # eshop-cache-hystrix
-hystrix 学习笔记
+hystrix 学习实践
